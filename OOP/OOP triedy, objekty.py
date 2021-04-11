@@ -1,4 +1,9 @@
 """
+# methods = metody, chovanie, {funkcia v clase = metoda}
+# attributes = atributy, data, data field, datova zlozka, vlastnosti,
+# class = trieda,
+# objekt = instancia triedy
+
 Objekt - konkretna reprezentacia triedy.
                        (instancia triedy)
 
